@@ -1,2 +1,3 @@
 this is the file in the main branch. Now lets check the merge conflict between the branch main and new_branch2
 this is to merge the main.txt to the main branch from new_branch2. check to merge conflict
+this is to merge the main.txt to the main branch from new_branch2. This is to check the merge conflict. 
